@@ -1,7 +1,7 @@
-# Latest Repositories (2025-03-19 .. 2025-03-21)
+# Latest Repositories (2025-03-20 .. 2025-03-22)
 
-- [isaiahbjork/orpheus-tts-local](https://github.com/isaiahbjork/orpheus-tts-local) (207)
-- [yvalnaxrs/MeV-BoT_SOLANA](https://github.com/yvalnaxrs/MeV-BoT_SOLANA) (183)
-- [vercel/ai-chatbot-svelte](https://github.com/vercel/ai-chatbot-svelte) (136)
-- [AabyssZG/NavicatPwn](https://github.com/AabyssZG/NavicatPwn) (118)
-- [BlackFan/BFScan](https://github.com/BlackFan/BFScan) (97)
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) (278)
+- [xxnuo/serverless-markdown-convertor](https://github.com/xxnuo/serverless-markdown-convertor) (168)
+- [AabyssZG/NavicatPwn](https://github.com/AabyssZG/NavicatPwn) (149)
+- [soloterm/screen](https://github.com/soloterm/screen) (121)
+- [Bhartendu-Kumar/rules_template](https://github.com/Bhartendu-Kumar/rules_template) (76)
