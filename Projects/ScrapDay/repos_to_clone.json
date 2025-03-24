@@ -1,32 +1,32 @@
 [
   {
-    "name": "ygwyg/diverce",
-    "clone_url": "https://github.com/ygwyg/diverce.git",
-    "stars": 297,
-    "size": 68
+    "name": "caioricciuti/cr-mac-helper",
+    "clone_url": "https://github.com/caioricciuti/cr-mac-helper.git",
+    "stars": 96,
+    "size": 54
   },
   {
-    "name": "Dr-Ai-0018/Siliconflow-API-Management",
-    "clone_url": "https://github.com/Dr-Ai-0018/Siliconflow-API-Management.git",
-    "stars": 56,
-    "size": 354
+    "name": "afshinea/stanford-cme-295-transformers-large-language-models",
+    "clone_url": "https://github.com/afshinea/stanford-cme-295-transformers-large-language-models.git",
+    "stars": 88,
+    "size": 1319
   },
   {
-    "name": "fayazara/animated-lucide-vue",
-    "clone_url": "https://github.com/fayazara/animated-lucide-vue.git",
-    "stars": 38,
-    "size": 147
+    "name": "attilatorda/Shift-To-Middle_Array",
+    "clone_url": "https://github.com/attilatorda/Shift-To-Middle_Array.git",
+    "stars": 87,
+    "size": 202
+  },
+  {
+    "name": "DayuanJiang/next-ai-draw-io",
+    "clone_url": "https://github.com/DayuanJiang/next-ai-draw-io.git",
+    "stars": 74,
+    "size": 189
   },
   {
     "name": "LAOGOU-666/Comfyui-Memory_Cleanup",
     "clone_url": "https://github.com/LAOGOU-666/Comfyui-Memory_Cleanup.git",
-    "stars": 35,
-    "size": 189
-  },
-  {
-    "name": "mshojaei77/ollama_rag",
-    "clone_url": "https://github.com/mshojaei77/ollama_rag.git",
-    "stars": 32,
-    "size": 1410
+    "stars": 54,
+    "size": 191
   }
 ]
