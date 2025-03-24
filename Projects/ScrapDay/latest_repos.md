@@ -1,7 +1,7 @@
-# Latest Repositories (2025-03-21 .. 2025-03-23)
+# Latest Repositories (2025-03-22 .. 2025-03-24)
 
-- [ygwyg/diverce](https://github.com/ygwyg/diverce) (297)
-- [Dr-Ai-0018/Siliconflow-API-Management](https://github.com/Dr-Ai-0018/Siliconflow-API-Management) (56)
-- [fayazara/animated-lucide-vue](https://github.com/fayazara/animated-lucide-vue) (38)
-- [LAOGOU-666/Comfyui-Memory_Cleanup](https://github.com/LAOGOU-666/Comfyui-Memory_Cleanup) (35)
-- [mshojaei77/ollama_rag](https://github.com/mshojaei77/ollama_rag) (32)
+- [caioricciuti/cr-mac-helper](https://github.com/caioricciuti/cr-mac-helper) (96)
+- [afshinea/stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) (88)
+- [attilatorda/Shift-To-Middle_Array](https://github.com/attilatorda/Shift-To-Middle_Array) (87)
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) (74)
+- [LAOGOU-666/Comfyui-Memory_Cleanup](https://github.com/LAOGOU-666/Comfyui-Memory_Cleanup) (54)
