@@ -1,32 +1,32 @@
 [
   {
-    "name": "caioricciuti/cr-mac-helper",
-    "clone_url": "https://github.com/caioricciuti/cr-mac-helper.git",
-    "stars": 96,
+    "name": "cyfyifanchen/one-person-company",
+    "clone_url": "https://github.com/cyfyifanchen/one-person-company.git",
+    "stars": 180,
+    "size": 496
+  },
+  {
+    "name": "mouredev/hello-java",
+    "clone_url": "https://github.com/mouredev/hello-java.git",
+    "stars": 174,
+    "size": 520
+  },
+  {
+    "name": "dbccccccc/ttsfm",
+    "clone_url": "https://github.com/dbccccccc/ttsfm.git",
+    "stars": 97,
     "size": 54
   },
   {
-    "name": "afshinea/stanford-cme-295-transformers-large-language-models",
-    "clone_url": "https://github.com/afshinea/stanford-cme-295-transformers-large-language-models.git",
-    "stars": 88,
-    "size": 1319
+    "name": "kepano/defuddle-cli",
+    "clone_url": "https://github.com/kepano/defuddle-cli.git",
+    "stars": 90,
+    "size": 78
   },
   {
-    "name": "attilatorda/Shift-To-Middle_Array",
-    "clone_url": "https://github.com/attilatorda/Shift-To-Middle_Array.git",
-    "stars": 87,
-    "size": 202
-  },
-  {
-    "name": "DayuanJiang/next-ai-draw-io",
-    "clone_url": "https://github.com/DayuanJiang/next-ai-draw-io.git",
-    "stars": 74,
-    "size": 189
-  },
-  {
-    "name": "LAOGOU-666/Comfyui-Memory_Cleanup",
-    "clone_url": "https://github.com/LAOGOU-666/Comfyui-Memory_Cleanup.git",
-    "stars": 54,
-    "size": 191
+    "name": "crowhotcandy/solana-auto-transfer-sript",
+    "clone_url": "https://github.com/crowhotcandy/solana-auto-transfer-sript.git",
+    "stars": 83,
+    "size": 355
   }
 ]

@@ -1,7 +1,7 @@
-# Latest Repositories (2025-03-22 .. 2025-03-24)
+# Latest Repositories (2025-03-23 .. 2025-03-25)
 
-- [caioricciuti/cr-mac-helper](https://github.com/caioricciuti/cr-mac-helper) (96)
-- [afshinea/stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) (88)
-- [attilatorda/Shift-To-Middle_Array](https://github.com/attilatorda/Shift-To-Middle_Array) (87)
-- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) (74)
-- [LAOGOU-666/Comfyui-Memory_Cleanup](https://github.com/LAOGOU-666/Comfyui-Memory_Cleanup) (54)
+- [cyfyifanchen/one-person-company](https://github.com/cyfyifanchen/one-person-company) (180)
+- [mouredev/hello-java](https://github.com/mouredev/hello-java) (174)
+- [dbccccccc/ttsfm](https://github.com/dbccccccc/ttsfm) (97)
+- [kepano/defuddle-cli](https://github.com/kepano/defuddle-cli) (90)
+- [crowhotcandy/solana-auto-transfer-sript](https://github.com/crowhotcandy/solana-auto-transfer-sript) (83)

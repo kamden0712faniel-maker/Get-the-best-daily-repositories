@@ -1,0 +1,26 @@
+{
+  "name": "solana-token-contract",
+  "version": "1.0.0",
+  "description": "Advanced Solana token contract with yield optimization",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "deploy": "ts-node scripts/deploy.ts",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/web3.js": "^1.87.6",
+    "bs58": "^5.0.0",
+    "dotenv": "^16.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.6",
+    "@types/jest": "^29.5.0",
+    "@types/node": "^20.0.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0"
+  }
+}
