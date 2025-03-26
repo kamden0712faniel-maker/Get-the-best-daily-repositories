@@ -1,32 +1,32 @@
 [
   {
-    "name": "cyfyifanchen/one-person-company",
-    "clone_url": "https://github.com/cyfyifanchen/one-person-company.git",
-    "stars": 180,
-    "size": 496
-  },
-  {
     "name": "mouredev/hello-java",
     "clone_url": "https://github.com/mouredev/hello-java.git",
-    "stars": 174,
+    "stars": 299,
     "size": 520
   },
   {
     "name": "dbccccccc/ttsfm",
     "clone_url": "https://github.com/dbccccccc/ttsfm.git",
-    "stars": 97,
-    "size": 54
+    "stars": 228,
+    "size": 79
   },
   {
-    "name": "kepano/defuddle-cli",
-    "clone_url": "https://github.com/kepano/defuddle-cli.git",
-    "stars": 90,
-    "size": 78
+    "name": "ddCat-main/cursor-auto-register",
+    "clone_url": "https://github.com/ddCat-main/cursor-auto-register.git",
+    "stars": 124,
+    "size": 1167
   },
   {
-    "name": "crowhotcandy/solana-auto-transfer-sript",
-    "clone_url": "https://github.com/crowhotcandy/solana-auto-transfer-sript.git",
-    "stars": 83,
-    "size": 355
+    "name": "mrexodia/ida-pro-mcp",
+    "clone_url": "https://github.com/mrexodia/ida-pro-mcp.git",
+    "stars": 120,
+    "size": 58
+  },
+  {
+    "name": "hyperlight-dev/hyperlight-wasm",
+    "clone_url": "https://github.com/hyperlight-dev/hyperlight-wasm.git",
+    "stars": 96,
+    "size": 118
   }
 ]
